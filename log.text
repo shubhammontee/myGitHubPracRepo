@@ -1,0 +1,1 @@
+error logs needs to be ignored even if we add all files by the command git add . command
